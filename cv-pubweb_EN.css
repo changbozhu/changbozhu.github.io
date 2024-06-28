@@ -34,6 +34,7 @@
 .Cochineal-Italic-osf-swash-t-1x-x-109{font-size:109%;}
 .fa5free2solid-x-x-80{font-size:80%; font-family: 'Font Awesome 5 Free Solid', serif;}
 .Cochineal-Roman-osf-sc-t-1x-x-109{font-size:109%;}
+.fa5brands1-x-x-144{font-size:144%; font-family: 'Font Awesome 5 Brands Regular', serif;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -171,7 +172,7 @@ table.longtable{margin-left:auto; margin-right: auto;}
 caption.longtable .id{font-weight:bold;}
 .rotatebox{display: inline-block;}
 dt.printshorthands{float:left; clear:left; margin-right:1em;}
-span#textcolor1{color:rgb(145,5,50)}
-span#textcolor2{color:rgb(145,5,50)}
+span#textcolor1{color:rgb(145,5,101)}
+span#textcolor2{color:rgb(145,5,101)}
 /* end css.sty */
 
